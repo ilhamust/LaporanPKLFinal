@@ -6,7 +6,9 @@
   
   <h2>Cara Download</h2>
 1. Klik code pada kanan atas
+<br>
 2. Klik download ZIP untuk download semua file 
+<br>
 3. Jika ingin download satu file, Klik flie yang ingin di download kemudian klik download pada bagian kanan
 
 
